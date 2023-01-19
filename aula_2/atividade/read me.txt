@@ -1,0 +1,5 @@
+Atividade realizada na segunda aula do módulo de power bi.
+
+link do kaggle com o dataset:
+https://www.kaggle.com/datasets/ruddygunawan/per-capita-income-by-county-2021-vs-education?resource=download
+
